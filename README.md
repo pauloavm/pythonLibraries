@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coletânea de Códigos Python</title>
-</head>
+    </head>
 <body>
     <h1>📚 Coletânea de Códigos em Python</h1>
     <p>
