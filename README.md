@@ -31,11 +31,12 @@
                     <a href="https://nubank.com.br/cobrar/4dtz7/663387e0-56a7-4ce4-9184-1bc4617a075e" title="Se preferir pelo PIX!">O cafézinho do PIX</a>
                 </p>
                 <br>
-                <span class="copy">Desenvolvido por <a href="mailto:paulo@mws.app.br?subject=Contato através GitHub">Paulo Munhoz&#0169</a> 2024</span>
+                <span class="copy">Desenvolvido por <a href="mailto:pauloavmunhoz@gmail.com?subject=Contato através GitHub">Paulo Munhoz&#0169</a> 2024</span>
             </div>
         </div>
     </footer>
 </body>
 </html>
+
 
 
