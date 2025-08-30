@@ -24,9 +24,9 @@ Desenvolvido por [Paulo Munhoz](mailto:pauloavmunhoz@gmail.com?subject=Contato%2
 
 Olá, pessoal\! 
 
-Desde 2024, tenho me dedicado intensamente aos estudos de programação, com foco especial em Python. Ao longo dessa jornada, compilei uma variedade de códigos, tanto de materiais que encontrei, quanto de projetos que desenvolvi durante as dezenas de aulas que assisti. 🎓
+Desde 2024, tenho me dedicado intensamente aos estudos de programação, com foco especial em Python. Ao longo dessa jornada, compilei uma variedade de códigos, tanto de materiais que encontrei, quanto de projetos que desenvolvi durante as dezenas de aulas que assisti. 
 
-Notei que muitos vendem pacotes de códigos, mas que diversas vezes são confusos e sem um contexto claro. Por isso, decidi organizar e compartilhar esta coletânea de códigos, pensada principalmente para iniciantes. No entanto, quem sabe um desenvolvedor sênior também não encontre algo útil por aqui\! 😉
+Notei que muitos vendem pacotes de códigos, mas que diversas vezes são confusos e sem um contexto claro. Por isso, decidi organizar e compartilhar esta coletânea de códigos, pensada principalmente para iniciantes. No entanto, quem sabe um desenvolvedor sênior também não encontre algo útil por aqui\! 
 
 **Este repositório está em constante atualização\!** Estou adicionando os códigos aos poucos, pois o material é extenso e, confesso, ainda estou organizando tudo\! Fique de olho para novidades e novos scripts que serão adicionados regularmente.
 
@@ -54,3 +54,4 @@ Se você gostou da iniciativa e acha que o esforço valeu a pena, considere me p
 Desenvolvido com muito café, por [Paulo Munhoz](mailto:pauloavmunhoz@gmail.com?subject=Contato%20através%20GitHub) © 2025
 
 [](https://www.google.com/search?q=%5Bhttps://www.linkedin.com/in/paulomunhoz/%5D\(https://www.linkedin.com/in/paulomunhoz/\))
+
