@@ -74,4 +74,9 @@ Se você gostou da iniciativa e acha que o esforço valeu a pena, considere me p
 
 Desenvolvido com muito café, por [Paulo Munhoz](mailto:pauloavmunhoz@gmail.com?subject=Contato%20através%20GitHub) © 2025
 
+<<<<<<< HEAD
 [](https://www.google.com/search?q=%5Bhttps://www.linkedin.com/in/paulomunhoz/%5D\(https://www.linkedin.com/in/paulomunhoz/\))
+=======
+[](https://www.google.com/search?q=%5Bhttps://www.linkedin.com/in/paulomunhoz/%5D\(https://www.linkedin.com/in/paulomunhoz/\))
+
+>>>>>>> 8647308f3a97e7b7300ee14e968766f78799d426
