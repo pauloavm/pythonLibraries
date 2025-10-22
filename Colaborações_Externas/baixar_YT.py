@@ -3,7 +3,7 @@ from pytubefix.cli import on_progress
 from pathlib import Path
 
 # URL corrigida, sem espaços extras
-url = "https://www.youtube.com/watch?v=IJ2c52blg8c"
+url = "Isira a URL do vídeo aqui"
 
 # Define a pasta de destino para os vídeos baixados
 destino = Path("pasta_video_DL")
