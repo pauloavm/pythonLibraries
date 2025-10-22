@@ -1,59 +1,11 @@
-# --- Core para Ciência de Dados e Análise ---
-pandas
-numpy
-scipy
-scikit-learn
-
-# --- Visualização de Dados ---
-matplotlib
-seaborn
-plotly
-
-# --- Desenvolvimento Web: Flask e Extensões ---
-Flask
-Flask-WTF
-Flask-Login
-Flask-RESTful
-Flask-Session
-Flask-Mail
-Flask-OAuthlib
-Flask-Caching
-Flask-Babel
-Flask-Uploads
-flask-restplus
-Flask-JWT
-Flask-FlatPages
-Markdown
-
-# --- Desenvolvimento Web: Django ---
-Django
-djangorestframework
-
-# --- Banco de Dados ---
-mysql-connector-python
-SQLAlchemy
-psycopg2-binary
-pymongo
-pyodbc
-
-# --- Manipulação de Imagens e OCR ---
-Pillow
-rembg
-pytesseract
-
-# --- APIs e Requisições Web ---
-requests
-google-cloud-speech
-googletrans
-yfinance
-beautifulsoup4
-
-# --- Geração de Códigos e Documentos ---
-qrcode
-python-barcode
-fpdf
-
-# --- Utilitários e Outros ---
-cryptography
-pytubefix
-PyPDF2
+aiohappyeyeballs==2.6.1
+aiohttp==3.13.1
+aiosignal==1.4.0
+attrs==25.4.0
+frozenlist==1.8.0
+idna==3.11
+multidict==6.7.0
+nodejs-wheel-binaries==22.20.0
+propcache==0.4.1
+pytubefix==10.0.1
+yarl==1.22.0
